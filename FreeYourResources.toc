@@ -1,0 +1,11 @@
+## Interface: 40000
+## Title: FreeYourResources
+## Notes: Allows free movement and scaling of the default Blizzard class resource frames
+## Author: Daedhir
+## Version: 0.1
+## SavedVariables: FreeYourResourcesDB
+## OptionalDeps: Ace3
+
+embeds.xml
+FreeYourResources.lua
+
