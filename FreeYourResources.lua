@@ -19,6 +19,7 @@ local FYRUtils = {}
 
 local getOpt, setOpt, setScale
 local isNotDruid, isNotPally, isNotWarlock, isNotDK
+local invertPallyFrame, invertWarlockFrame, invertDruidFrame
 
 local frames = {}
 
