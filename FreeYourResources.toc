@@ -5,10 +5,6 @@
 ## Version: 0.1
 ## SavedVariables: FreeYourResourcesDB
 ## OptionalDeps: Ace3
-## X-Curse-Packaged-Version: v1.2
-## X-Curse-Project-Name: FreeYourResources
-## X-Curse-Project-ID: freeyourresources
-## X-Curse-Repository-ID: wow/freeyourresources/mainline
 
 embeds.xml
 FreeYourResources.lua
